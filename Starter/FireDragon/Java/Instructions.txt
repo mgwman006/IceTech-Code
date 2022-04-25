@@ -1,0 +1,19 @@
+Description
+-----------
+Scientists have discovered a species of fire-breathing dragons. DNA analysis of the dragon reveals that it is a reptile evolved from a common ancestor of crocodile, hundreds of millions of years ago. Even though they're related, the different reptile species cannot cross-breed.
+
+Researchers would like to develop a lifecycle model of this rare species, in order to better study them. Complete the implementation so that:
+
+•	The FireDragon species implements the Reptile interface.
+•	When a ReptileEgg hatches, a new reptile will be created of the same species that laid the egg.
+•	An IllegalStateException is thrown if a ReptileEgg tries to hatch more than once.
+
+Modify the classes provided to accomplish the above, so that the unit tests all run, and pass.
+
+Pre-requisites
+--------------
+You will need:
+•	Java SDK 1.8 installed
+•	A java compatible IDE, the project attached is for IntelliJ idea, you are free to use another IDE if you wish
+
+Return your completed solution in a ZIP file.
